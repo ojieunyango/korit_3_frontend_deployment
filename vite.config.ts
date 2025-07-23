@@ -3,7 +3,7 @@ import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/carlist_front/',
+  base: '/korit_3_frontend_deployment/',
   plugins: [react()],
 });
 
